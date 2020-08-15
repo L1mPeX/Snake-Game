@@ -2,10 +2,7 @@ from tkinter import *
 import random
 
 WIDTH = 800
-
-
 HEIGHT = 600
-
 SEG_SIZE = 20
 
 IN_GAME = True
